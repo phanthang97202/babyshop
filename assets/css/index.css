@@ -687,7 +687,7 @@ body::-webkit-scrollbar-thumb {
     padding: 6px;
     border-radius: 4px;
     background-color: #ebc989;
-    z-index: 8;
+    z-index: 1;
 }
 
 .products__item--options{
